@@ -1,3 +1,6 @@
+# Corrections
+exe/td1/seqAcquisitionCorr.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
