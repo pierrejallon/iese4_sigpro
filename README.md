@@ -11,7 +11,7 @@ Une fois les outils installés:
 - dans l'onglet welcome, cliquez sur "Clone git repository"
 - Entrez le repo https://github.com/pierrejallon/iese4_sigpro 
 - Le logiciel va télécharger le code
-- Placez vous dans le dossier cours_ts (visual code le propose quand le code est téléchargé)
+- Placez vous dans le dossier iese4_sigpro (visual code le propose quand le code est téléchargé)
 - Ajoutez "Python extension for Visual Studio Code" (https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - Ouvrir un terminal (menu terminal, new Terminal dans visual studio code)
 - Ajouter le repo conda-forge à conda: conda config --add channels conda-forge
