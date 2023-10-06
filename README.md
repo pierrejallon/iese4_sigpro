@@ -4,6 +4,7 @@ Ce repository contient le code pour le TD du cours de théorie du signal.
 Pour utiliser le code, vous devez installer les outils suivants:
 - git (pour récupérer le code) - https://git-scm.com/downloads
 - conda (pour gérer les environnements de développement python) - https://docs.conda.io/en/latest/miniconda.html
+Lors de l'installation de conda, il faut ajouter conda au PATH de windows. Par défaut l'option est décochée et un message rouge apparait quand elle est cochée. 
 - visual studio code (éditeur de code) - https://code.visualstudio.com/
 
 Une fois les outils installés:
