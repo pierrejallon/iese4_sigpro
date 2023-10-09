@@ -23,6 +23,6 @@ class maClasse():
 
 
 my = maClasse()
-my.evenement(3) # rien ne se produit car l'evenement n'est pas relié à une fonction
+my.evenement(3) # affichera "pas de fonction definie"
 my.definitPointeur(fonctionLorsqueEvenementSeProduit) # on definit la fonction à appeler
 my.evenement(3) # la fonction fonctionLorsqueEvenementSeProduit est appelée
