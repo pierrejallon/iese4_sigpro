@@ -55,13 +55,13 @@ class mainWindow(QMainWindow):
 
         # on indique que la mise en forme du widget est vertical
         # Si on ajoute plusieurs widgets, ils seront donc organisés verticalement
+        # mais dans cette application, il n'y aura qu'un seul widget. 
         vbox = QVBoxLayout()
         mainWidget.setLayout(vbox)  
 
         # on veut ajouter deux courbes: 
         # une qui affiche les échantillons en flux générés par le générateur de signaux
         # une qui affiche les séquences extraites.
-
         # on ajoute un QTabWidget qui permettra de faire un onglet par courbe, et on l'ajoute au widget principal 
         self.tab = QTabWidget()
         mainWidget.layout().addWidget(self.tab)
